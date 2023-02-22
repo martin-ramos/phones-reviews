@@ -1,4 +1,4 @@
-package smartphones
+package models
 
 // Smarthphone
 // Se escribe Smartphone (CamelCase) porque va a ser exportada
